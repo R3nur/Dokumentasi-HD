@@ -1,0 +1,9 @@
+Dokumentasi langkah-langkah problem solving Aplikasi
+
+- Aplikasi synergix tidak bisa dibuka
+*penanganan dengan buka dengan command prompt lalu isikan dengan %appdata% dan akan dibawa masuk kedalam folder berisikan log aplikasi/folder aplikasi
+*selanjutnya bisa ubah nama folder aplikasi yang bermasalah synergix(Agent)1,2,3,dst
+
+- Aplikasi tidak terbuka dengan sempurna 
+*dengan melakukan end task aplikasi yang berjalan dan lihat services apa saja yang berjalan lalu end task
+
