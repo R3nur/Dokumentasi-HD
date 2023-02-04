@@ -1,0 +1,6 @@
+langkah-langkah penanganan jaringan yang bermasalah
+
+-jika tidak terkoneksi internet coba colok dan cabut kabel utp nya lalu lakukan ipconfig /renew 
+
+-lalu jika kita cek ipconfig tidak ada alamat IP nya kita bisa menghubungi team infra/jaringan biasanya mas indra
+-jika sudah berkordinasi dengan mas indra dan dia menyatakan IP nya hilang dan diberikan ip baru selanjutnya kita melakukan konfigurasi terakhir di PC  Agent dengan menggunakan perintah onfig /release 
